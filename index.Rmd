@@ -1,5 +1,8 @@
 ---
-title: "Speed and distance"
+title: "index"
+author: "Stig F. Samnøy"
+date: "2023-01-05"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
