@@ -1,0 +1,14 @@
+name: "Geoscience basics"
+navbar:
+  title: "Geoscience"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Speed and Distance"
+      href: speed-and-distance.html
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+#    include:
+#      after_body: _footer.html
