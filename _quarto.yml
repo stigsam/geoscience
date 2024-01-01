@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "geoscience"
+  navbar:
+    left:
+      - href: index.qml
+        text: Home
+      - about.qmd
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

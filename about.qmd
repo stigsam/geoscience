@@ -1,0 +1,12 @@
+---
+title: "About"
+---
+
+About this site
+
+Sample code
+
+```{r}
+2 + 2
+```
+

@@ -1,0 +1,12 @@
+---
+title: "geoscience"
+---
+
+demo page for geoscience
+
+Sample code
+
+```{r}
+1 + 1
+```
+
