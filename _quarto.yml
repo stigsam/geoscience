@@ -6,12 +6,13 @@ website:
   title: "geoscience"
   navbar:
     left:
-      - href: index.qml
+      - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
       
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
